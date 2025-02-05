@@ -17,8 +17,7 @@
 ### Setup Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/appointment-management-api.git
-   cd appointment-management-api
+   git clone https://github.com/mdarmancse/appointment_managment.git
    ```
 
 2. Install dependencies:
